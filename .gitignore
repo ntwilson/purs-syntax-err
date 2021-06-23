@@ -1,5 +1,7 @@
 # Dependencies
 .psci_modules
+.purs-repl
+.spago
 bower_components
 node_modules
 
