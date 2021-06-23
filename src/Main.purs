@@ -6,7 +6,6 @@ import Data.Either (Either(..))
 import Data.List (List(..), intercalate, (:))
 import Data.List as List
 import Data.Maybe (Maybe(..))
-import Data.String as String
 import Effect (Effect)
 import Effect.Console (log)
 
